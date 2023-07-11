@@ -1,0 +1,2 @@
+# Simple-signal-generator
+一个简单的基于stm32f103c8t6和外加MCP4725DAC模块以及IIC通信的oled模块组成的信号发生器
